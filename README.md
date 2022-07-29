@@ -1,7 +1,5 @@
 <img style="width: 200px;" src="./logo.png" />
 
-<hr />
-
 ### Objective
 
 Using JavaScript and React, your assignment is to implement a responsive signup form and get it looking as close to the design as possible.
